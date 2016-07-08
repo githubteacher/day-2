@@ -1,1 +1,1 @@
-This is a line so I can have a conflict!
+This is file 1. It is my favorite!
